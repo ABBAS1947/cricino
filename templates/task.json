@@ -1,0 +1,20 @@
+{
+  "template_only": true,
+  "id": "CR-YYYY-NNN",
+  "objective": "Replace with the authorized objective",
+  "scope": [],
+  "exclusions": [],
+  "acceptance_criteria": [],
+  "approval_references": [],
+  "states": {
+    "implementation": "not_started",
+    "verification": "not_authorized",
+    "gate": "pending_owner_approval",
+    "documentation": "pending",
+    "release": "not_authorized"
+  },
+  "evidence": [],
+  "documentation_receipts": [],
+  "blockers": [],
+  "next_permitted_action": "Establish scope and applicable authorization before implementation"
+}
