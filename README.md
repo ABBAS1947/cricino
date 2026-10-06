@@ -1,3 +1,5 @@
+![Cricino: AI-readable development systems, illustrated by a sunlit railway crossing a mountain lake through glowing checkpoints](cricino-readme-banner.png)
+
 # Cricino
 
 ## Building development systems that AI can read, resume, and follow
