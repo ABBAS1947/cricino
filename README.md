@@ -8,6 +8,12 @@ Cricino is a practical system for AI-assisted development: durable context, scop
 
 Created by Meesam while developing Pixie. Public edition 1.0, October 6, 2026. This repository contains the guide and reusable templates. It is a reference method, not an installed agent runtime or a complete CI product. Published under the [MIT License](LICENSE). Third-party material remains subject to its own terms.
 
+## Watch the 60-second overview
+
+[Watch Cricino with narration](https://github.com/ABBAS1947/cricino/releases/download/v1.0.0/cricino-voice.mp4)
+
+An animated introduction with synthetic narration and original music. The example is illustrative, not a recorded installation or evidence of agent performance.
+
 ## Install with your AI
 
 Give your coding agent this prompt while its workspace is the repository you want to improve:
