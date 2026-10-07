@@ -14,6 +14,12 @@ Created by Meesam while developing Pixie. Public edition 1.0, October 6, 2026. T
 
 An animated introduction with synthetic narration and original music. The example is illustrative, not a recorded installation or evidence of agent performance.
 
+## Try the working example
+
+[Download the synthetic bookmark example](https://github.com/ABBAS1947/cricino/releases/download/v1.0.0/cricino-working-example.zip). Extract it into a disposable workspace and follow its README and EVIDENCE.md.
+
+The installer actually ran on Windows/Python 3.11.15, and a separate agent with no inherited chat history recovered the current JSON decision, parked PDF work and planning-only boundaries. All 12 isolated installer tests passed. This is one observed example, not proof of universal harness compatibility or automatic enforcement. The package includes the records, reading prompt, results and limitations; it contains no application or private Pixie data.
+
 ## Install with your AI
 
 Give your coding agent this prompt while its workspace is the repository you want to improve:
